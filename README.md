@@ -7,8 +7,8 @@
 ## How to Use
 
 1. Enter the text you want to convert into the input field.
-2. Select the desired language and voice (optional).
-3. Click the "Speak" button to hear the text.
+2. Select the desired voice .
+3. Click the "Listen" button to hear the text.
 
 ## Live Demo
 
